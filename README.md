@@ -1,6 +1,6 @@
 # YouTimeManager
 
-**YouTimeManager** is an application that helps users calculate the total time of a YouTube playlist and estimate how many videos they can watch per day based on their daily viewing time limit. It also provides the expected end date for completing the playlist.
+**YouTimeManager** is a console application that helps users calculate the total time of a YouTube playlist and estimate how many videos they can watch per day based on their daily viewing time limit. It also provides the expected end date for completing the playlist.
 
 ## Features
 
